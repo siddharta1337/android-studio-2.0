@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Texto dinámico</string>
+    <string name="saludo">HOLA</string>
+</resources>
